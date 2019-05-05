@@ -1,0 +1,3 @@
+[submodule "inputAngular8"]
+	path = inputAngular8
+	url = git@github.com:Yuuki1337/Angular8.git
